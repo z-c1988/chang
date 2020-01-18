@@ -1,7 +1,7 @@
 #练习一
 guess = input()
-print("请猜一个数字:  " + guess)
-print("你输入的数字是:  " + guess)
+print("请猜一个数字:" + guess)
+print("你输入的数字是:" + guess)
 
 #练习二
 money = 20
